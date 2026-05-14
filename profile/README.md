@@ -1,0 +1,93 @@
+<div align="center">
+  <h1>🚀 Minidooray Team 8</h1>
+  <p>협업의 효율성을 극대화하는 업무 관리 서비스, <b>Minidooray</b>입니다.</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Minidooray+Project+Main+Image" alt="Main" style="border-radius: 10px;"/> 
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="">홈페이지</a>
+  &nbsp; | &nbsp;
+  <a href="">Wiki</a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3> NHN Academy - Team 8 팀원</h3>
+
+| <a href="https://github.com/OiJs"><img src="https://github.com/OiJs.png" width="100px"><br/>이준서</a> | <a href="https://github.com/member2"><img src="https://via.placeholder.com/100.png?text=Member2" width="100px"><br/>팀원 2</a> | <a href="https://github.com/member3"><img src="https://via.placeholder.com/100.png?text=Member3" width="100px"><br/>팀원 3</a> |
+|:---:|:---:|:---:|
+| **Gateway & Auth** | **Account API** | **Task API** |
+| Thymeleaf, Redis | DB 설계, CRUD | DB 설계, CRUD |
+| Security, OAuth2 | 회원 관리 | 프로젝트/태그 관리 |
+
+</div>
+
+<br/>
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Cloud-Gateway%20%7C%20OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+
+**Database & Cache**  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+**Testing & Quality**  
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/AssertJ-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/Mockito-2E8B57?style=for-the-badge">
+
+**Frontend / UI**  
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+**Tools & Workflow**  
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git%20Flow-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<br/>
+
+---
+
+## 🧑‍💻 Repository
+
+- [**GATEWAY**](https://github.com/minidooray-team8/minidooray-team8-gateway) - Thymeleaf 기반 Presentation 레이어 & API 라우팅
+- [**ACCOUNT**](https://github.com/minidooray-team8/minidooray-team8-account-api) - 회원가입, 로그인 및 사용자 정보 관리 API
+- [**TASK**](https://github.com/minidooray-team8/minidooray-team8-task-api) - 프로젝트, 업무, 댓글 등 핵심 비즈니스 로직 API
+
+<br/>
+
+---
+
+## 📝 About the Project
+
+**프로젝트 기간 : 2026.05.14. ~ 2026.05.22**
+
+<br/>
+
+**Minidooray**는 복잡한 프로젝트와 업무를 체계적으로 관리하고, 팀원 간의 원활한 소통을 지원하는 마이크로서비스 아키텍처(MSA) 기반의 협업 툴입니다.
+
+- **프로젝트 중심 협업**: 프로젝트별 멤버 관리 및 독립된 업무 환경 제공
+- **직관적인 업무 추적**: 마일스톤과 태그를 통한 업무 진행 상황 가시화
+- **실시간 소통**: 업무별 댓글 기능을 통한 팀원 간 의견 교환
+- **중앙 집중식 인증**: Gateway와 Redis를 활용한 통합 세션 관리 및 보안 강화
+
+---
+<div align="center">
+  © 2026 Minidooray Team 8. All rights reserved.
+</div>
