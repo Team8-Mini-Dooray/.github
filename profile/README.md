@@ -14,7 +14,7 @@
 
 | <a href="https://github.com/OiJs"><img src="https://github.com/OiJs.png" width="100px"><br/>이준서</a> | <a href="https://github.com/gogooga1"><img src="https://github.com/gogooga1.png" width="100px"><br/>gogooga1</a> | <a href="https://github.com/kim75503"><img src="https://github.com/kim75503.png" width="100px"><br/>kim75503</a> | <a href="https://github.com/kitturamiboiler"><img src="https://github.com/kitturamiboiler.png" width="100px"><br/>kitturamiboiler</a> |
 |:---:|:---:|:---:|:---:|
-| **Gateway** | **Account API** | **Task API** | **Task API** |
+| **Gateway** | **Associaiton API** | **Task API** | **Task API** |
 | Thymeleaf, Redis | DB 설계, CRUD | DB 설계, CRUD | DB 설계, CRUD |
 | Security | 회원 관리 | 프로젝트/태그 관리 | 업무/마일스톤 관리 |
 
@@ -57,7 +57,7 @@
 ## 🧑‍💻 Repository
 
 - [**GATEWAY**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Gateway) - Thymeleaf 기반 Presentation 레이어 & API 라우팅
-- [**ACCOUNT**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Account-API) - 회원가입, 로그인 및 사용자 정보 관리 API
+- [**Association**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Association-API) - 회원가입, 로그인 및 사용자 정보 관리 API
 - [**TASK**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Task-API) - 프로젝트 및 업무 관리 핵심 비즈니스 API
 
 <br/>
