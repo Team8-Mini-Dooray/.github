@@ -22,11 +22,11 @@
 <div align="center">
   <h3> NHN Academy - Team 8 팀원</h3>
 
-| <a href="https://github.com/OiJs"><img src="https://github.com/OiJs.png" width="100px"><br/>이준서</a> | <a href="https://github.com/member2"><img src="https://via.placeholder.com/100.png?text=Member2" width="100px"><br/>팀원 2</a> | <a href="https://github.com/member3"><img src="https://via.placeholder.com/100.png?text=Member3" width="100px"><br/>팀원 3</a> |
-|:---:|:---:|:---:|
-| **Gateway & Auth** | **Account API** | **Task API** |
-| Thymeleaf, Redis | DB 설계, CRUD | DB 설계, CRUD |
-| Security, OAuth2 | 회원 관리 | 프로젝트/태그 관리 |
+| <a href="https://github.com/OiJs"><img src="https://github.com/OiJs.png" width="100px"><br/>이준서</a> | <a href="https://github.com/gogooga1"><img src="https://github.com/gogooga1.png" width="100px"><br/>gogooga1</a> | <a href="https://github.com/kim75503"><img src="https://github.com/kim75503.png" width="100px"><br/>kim75503</a> | <a href="https://github.com/kitturamiboiler"><img src="https://github.com/kitturamiboiler.png" width="100px"><br/>kitturamiboiler</a> |
+|:---:|:---:|:---:|:---:|
+| **Gateway & Auth** | **Account API** | **Task API** | **Task API** |
+| Thymeleaf, Redis | DB 설계, CRUD | DB 설계, CRUD | DB 설계, CRUD |
+| Security, OAuth2 | 회원 관리 | 프로젝트/태그 관리 | 업무/마일스톤 관리 |
 
 </div>
 
@@ -68,7 +68,7 @@
 
 - [**GATEWAY**](https://github.com/minidooray-team8/minidooray-team8-gateway) - Thymeleaf 기반 Presentation 레이어 & API 라우팅
 - [**ACCOUNT**](https://github.com/minidooray-team8/minidooray-team8-account-api) - 회원가입, 로그인 및 사용자 정보 관리 API
-- [**TASK**](https://github.com/minidooray-team8/minidooray-team8-task-api) - 프로젝트, 업무, 댓글 등 핵심 비즈니스 로직 API
+- [**TASK**](https://github.com/minidooray-team8/minidooray-team8-task-api) - 프로젝트 및 업무 관리 핵심 비즈니스 API
 
 <br/>
 
