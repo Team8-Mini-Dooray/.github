@@ -5,10 +5,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Minidooray+Project+Main+Image" alt="Main" style="border-radius: 10px;"/> 
-</div>
-
 <br/>
 
 <br/>
