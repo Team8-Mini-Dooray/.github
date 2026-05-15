@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Minidooray Team 8</h1>
+  <h1>Minidooray Team 8</h1>
   <p>협업의 효율성을 극대화하는 업무 관리 서비스, <b>Minidooray</b>입니다.</p>
 </div>
 
@@ -11,12 +11,6 @@
 
 <br/>
 
-<div align="center">
-  <a href="">홈페이지</a>
-  &nbsp; | &nbsp;
-  <a href="">Wiki</a>
-</div>
-
 <br/>
 
 <div align="center">
@@ -24,9 +18,9 @@
 
 | <a href="https://github.com/OiJs"><img src="https://github.com/OiJs.png" width="100px"><br/>이준서</a> | <a href="https://github.com/gogooga1"><img src="https://github.com/gogooga1.png" width="100px"><br/>gogooga1</a> | <a href="https://github.com/kim75503"><img src="https://github.com/kim75503.png" width="100px"><br/>kim75503</a> | <a href="https://github.com/kitturamiboiler"><img src="https://github.com/kitturamiboiler.png" width="100px"><br/>kitturamiboiler</a> |
 |:---:|:---:|:---:|:---:|
-| **Gateway & Auth** | **Account API** | **Task API** | **Task API** |
+| **Gateway** | **Account API** | **Task API** | **Task API** |
 | Thymeleaf, Redis | DB 설계, CRUD | DB 설계, CRUD | DB 설계, CRUD |
-| Security, OAuth2 | 회원 관리 | 프로젝트/태그 관리 | 업무/마일스톤 관리 |
+| Security | 회원 관리 | 프로젝트/태그 관리 | 업무/마일스톤 관리 |
 
 </div>
 
