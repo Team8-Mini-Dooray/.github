@@ -56,9 +56,9 @@
 
 ## 🧑‍💻 Repository
 
-- [**GATEWAY**](https://github.com/minidooray-team8/minidooray-team8-gateway) - Thymeleaf 기반 Presentation 레이어 & API 라우팅
-- [**ACCOUNT**](https://github.com/minidooray-team8/minidooray-team8-account-api) - 회원가입, 로그인 및 사용자 정보 관리 API
-- [**TASK**](https://github.com/minidooray-team8/minidooray-team8-task-api) - 프로젝트 및 업무 관리 핵심 비즈니스 API
+- [**GATEWAY**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Gateway) - Thymeleaf 기반 Presentation 레이어 & API 라우팅
+- [**ACCOUNT**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Account-API) - 회원가입, 로그인 및 사용자 정보 관리 API
+- [**TASK**](https://github.com/Team8-Mini-Dooray/Mini-Dooray-Task-API) - 프로젝트 및 업무 관리 핵심 비즈니스 API
 
 <br/>
 
